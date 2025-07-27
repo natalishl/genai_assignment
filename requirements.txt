@@ -1,0 +1,12 @@
+python-dotenv==1.0.1
+openai
+tiktoken
+streamlit
+fastapi
+uvicorn
+azure-ai-formrecognizer==3.3.3
+azure-core==1.33.0
+beautifulsoup4
+pydantic
+requests
+numpy
